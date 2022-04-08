@@ -7,7 +7,7 @@
 
 int main(void)
 {
-for (c == 0; c < 26; ++c)
+for (int c == 0; c < 26; ++c)
 putchar ('a' + c);
 
 putchar('\n');
