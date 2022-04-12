@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - entry point
- * 
+ *
  * description: print lower and upper cases
  * Return: Always 0
  */
